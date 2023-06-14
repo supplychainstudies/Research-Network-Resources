@@ -1,0 +1,13 @@
+	                     
+FILENAME: COUNTRY.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-4         	cty_code        4-Digit Country Code
+
+ 5-11         	cty_desc      	7-Digit Country Description
+
+ 12-61        	cty_name       	50-Digit Country Name
+

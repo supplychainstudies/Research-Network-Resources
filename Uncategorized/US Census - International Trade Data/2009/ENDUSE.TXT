@@ -1,0 +1,217 @@
+0    FOODS, FEEDS, AND BEVERAGES                                                                         
+00   AGRICULTURAL                                                                                        
+000  WHEAT, RICE AND OTHER FOOD GRAINS                                                                   
+00000WHEAT                                                                                               
+00010RICE                                                                                                
+001  SOYBEANS AND OTHER OIL SEEDS AND FOOD OILS                                                          
+00100SOYBEANS                                                                                            
+00110OILSEEDS, FOOD OILS                                                                                 
+002  FEEDSTUFF                                                                                           
+00200CORN                                                                                                
+00210SORGHUM, BARLEY, OATS                                                                               
+00220ANIMAL FEEDS, N.E.C.                                                                                
+003  OTHER AGRICULTURAL FOODS                                                                            
+00300MEAT, POULTRY, ETC.                                                                                 
+00310DAIRY PRODUCTS AND EGGS                                                                             
+00320FRUITS,  FROZEN JUICES                                                                              
+00330VEGETABLES                                                                                          
+00340NUTS                                                                                                
+00350BAKERY PRODUCTS                                                                                     
+00360OTHER FOODS                                                                                         
+00370WINE, BEER, AND RELATED PRODUCTS                                                                    
+01   NONAGRICULTURAL (FISH, BEVERAGES)                                                                   
+010  NONAGRICULTURAL (FISH, BEVERAGES)                                                                   
+01000FISH AND SHELLFISH                                                                                  
+01010ALCOHOLIC BEVERAGES, EXCLUDING WINE                                                                 
+01020NONAGRICULTURAL FOODS, ETC.                                                                         
+1    INDUSTRIAL SUPPLIES AND MATERIALS                                                                   
+10   AGRICULTURAL                                                                                        
+100  COTTON, INCL. LINTERS-RAW                                                                           
+10000COTTON, RAW                                                                                         
+101  OTHER AGRICULTURAL MATERIALS FOR INDUSTRY AND FARMING                                               
+10100TOBACCO, UNMANUFACTURED                                                                             
+10120HIDES AND SKINS                                                                                     
+10130AGRIC. INDUSTRY-UNMANUFACTURED                                                                      
+10140AGRIC. FARMING-UNMANUFACTURED                                                                       
+10150AGRICULTURE-MANUFACTURED, OTHER                                                                     
+11   FUELS AND LUBRICANTS                                                                                
+110  COALS AND RELATED FUELS                                                                             
+11010METALLURGICAL GRADE COAL                                                                            
+11020COAL AND FUELS, OTHER                                                                               
+111  PETROLEUM AND PRODUCTS, EXCLUDING NATURAL GAS                                                       
+11100CRUDE OIL                                                                                           
+11110FUEL OIL                                                                                            
+11120PETROLEUM PRODUCTS, OTHER                                                                           
+11130NATURAL GAS LIQUIDS                                                                                 
+112  GAS-NATURAL                                                                                         
+11200GAS-NATURAL                                                                                         
+113  NUCLEAR FUEL MATERIALS AND FUELS                                                                    
+11300NUCLEAR FUEL MATERIALS                                                                              
+114  ELECTRIC ENERGY                                                                                     
+11400ELECTRIC ENERGY                                                                                     
+12   NONAGRICULTURAL, EXCEPT FUELS                                                                       
+120  STEELMAKING & FERROALLOYING MATERIALS                                                               
+12000STEELMAKING MATERIALS                                                                               
+121  IRON AND STEEL PRODUCTS                                                                             
+12100IRON AND STEEL MILL PRODUCTS                                                                        
+12110IRON AND STEEL PRODUCTS, OTHER                                                                      
+122  NONFERROUS AND OTHER METALS-CRUDE AND                                                               
+12200ALUMINUM AND ALUMINA                                                                                
+12210COPPER                                                                                              
+12260NONMONETARY GOLD                                                                                    
+12270PRECIOUS METALS, OTHER                                                                              
+12290NONFERROUS METALS, OTHER                                                                            
+123  FINISHED METAL SHAPES AND ADVANCED METAL MFGRS, INCL. ADVANCED STEEL                                
+12300FINISHED METAL SHAPES                                                                               
+124  PAPER AND PAPER BASE STOCKS                                                                         
+12420PULPWOOD AND WOODPULP                                                                               
+12430NEWSPRINT                                                                                           
+125  CHEMICALS, EXCLUDING MEDICINALS AND FOOD ADDITIVES                                                  
+12500PLASTIC MATERIALS                                                                                   
+12510CHEMICALS-FERTILIZERS                                                                               
+12530CHEMICALS-INORGANIC                                                                                 
+12540CHEMICALS-ORGANIC                                                                                   
+12550CHEMICALS-OTHER                                                                                     
+126  INDUSTRIAL TEXTILE FIBERS, YARN, FABRIC                                                             
+12600COTTON FIBER CLOTH                                                                                  
+12620MANMADE CLOTH                                                                                       
+12630HAIR, WASTE MATERIALS                                                                               
+12640FINISHED TEXTILE SUPPLIES                                                                           
+12650LEATHER AND FURS                                                                                    
+127  OTHER NONAGRICULTURAL INDUSTRIAL MATERIALS                                                          
+12700SYNTHETIC RUBBER-PRIMARY                                                                            
+12720NONMETALLIC MINERALS                                                                                
+12750INDUSTRIAL RUBBER PRODUCTS                                                                          
+12760MINERAL SUPPLIES-MANUFACTURED                                                                       
+12765TAPES, AUDIO AND VISUAL                                                                             
+12770OTHER INDUSTRIAL SUPPLIES                                                                           
+13   SELECTED BUILDING MATERIALS, EXCEPT METALS                                                          
+131  LUMBER AND OTHER WOOD SUPPLIES                                                                      
+13100LOGS AND LUMBER                                                                                     
+13110WOOD SUPPLIES, MANUFACTURED                                                                         
+132  BUILDING MATERIALS, EXCEPT METALS                                                                   
+13200GLASS-PLATE, SHEET, ETC.                                                                            
+13210SHINGLES, MOLDING, WALLBOARD                                                                        
+13220NONTEXTILE FLOOR TILES                                                                              
+2    CAPITAL GOODS, EXCEPT AUTOMOTIVE                                                                    
+20   ELECTRIC GENERATING, AND ELECTRIC EQUIPMENT AND PARTS                                               
+200  ELECTRIC AND ELECTRIC GENERATING EQUIPMENT                                                          
+20000GENERATORS, ACCESSORIES                                                                             
+20005ELECTRIC APPARATUS                                                                                  
+21   NONELECTRICAL MACHINERY, EXCEPT CONSUMER-TYPE                                                       
+210  OIL DRILLING, MINING AND CONSTRUCTION MACHINERY                                                     
+21000DRILLING & OILFIELD EQUIPMENT                                                                       
+21010SPECIALIZED MINING                                                                                  
+21030EXCAVATING MACHINERY                                                                                
+21040NONFARM TRACTORS AND PARTS                                                                          
+211  INDUSTRIAL AND SERVICE MACHINERY, N.E.C.                                                            
+21100INDUSTRIAL ENGINES                                                                                  
+21110FOOD, TOBACCO MACHINERY                                                                             
+21120METALWORKING MACHINE TOOLS                                                                          
+21130TEXTILE, SEWING MACHINES                                                                            
+21140WOOD, GLASS, PLASTIC                                                                                
+21150PULP AND PAPER MACHINERY                                                                            
+21160MEASURING, TESTING, CONTROL INSTRUMENTS                                                             
+21170MATERIALS HANDLING EQUIPMENT                                                                        
+21180INDUSTRIAL MACHINES, OTHER                                                                          
+21190PHOTO, SERVICE INDUSTRY MACHINERY                                                                   
+212  AGRICULTURAL MACHINERY AND EQUIPMENT                                                                
+21200AGRICULTURAL MACHINERY, EQUIPMENT                                                                   
+213  COMPUTERS, PERIPHERALS AND SEMICONDUCTORS                                                           
+21300COMPUTERS                                                                                           
+21301COMPUTER ACCESSORIES                                                                                
+21320SEMICONDUCTORS                                                                                      
+214  TELECOMMUNICATIONS EQUIPMENT                                                                        
+21400TELECOMMUNICATIONS EQUIPMENT                                                                        
+215  BUSINESS MACHINERY AND EQUIPMENT, EXCEPT COMPUTERS AND RELATED PRODUCTS                             
+21500BUSINESS MACHINES AND EQUIPMENT                                                                     
+216  SCIENTIFIC, HOSPITAL AND MEDICAL MACHINERY                                                          
+21600LABORATORY TESTING INSTRUMENTS                                                                      
+21610MEDICINAL EQUIPMENT                                                                                 
+22   TRANSPORTATION EQUIPMENT AND SPACECRAFT, EXCEPT AUTOMOTIVE                                          
+220  CIVILIAN AIRCRAFT, ENGINES, PARTS                                                                   
+22000CIVILIAN AIRCRAFT                                                                                   
+22010PARTS-CIVILIAN AIRCRAFT                                                                             
+22020ENGINES-CIVILIAN AIRCRAFT                                                                           
+22090CIVILIAN AIRCRAFT, ENGINES, EQUIPMENT, AND PARTS                                                    
+221  RAILWAY TRANSPORTATION EQUIPMENT                                                                    
+22100RAILWAY TRANSPORTATION EQUIPMENT                                                                    
+222  VESSELS (EXCEPT MILITARY AND PLEASURE CRAFT AND MISCELLANEOUS VEHICLES                              
+22200VESSELS, EXCLUDING SCRAP                                                                            
+22210COMMERCIAL VESSELS, OTHER                                                                           
+22220MARINE ENGINES, PARTS                                                                               
+223  SPACECRAFT, ENGINES AND PARTS, EXCEPT MILITARY                                                      
+22300SPACECRAFT, EXCLUDING MILITARY                                                                      
+3    AUTOMOTIVE VEHICLES, PARTS, AND ENGINES                                                             
+30   AUTOMOTIVE VEHICLES, PARTS, AND ENGINES                                                             
+300  PASSENGER CARS, NEW AND USED                                                                        
+30000PASSENGER CARS, NEW AND USED                                                                        
+301  TRUCKS, BUSES AND SPECIAL PURPOSE VEHICLES                                                          
+30100TRUCKS, BUSES AND SPECIAL PURPOSE VEHICLES                                                          
+302  PARTS, ENGINES, BODIES, AND CHASSIS                                                                 
+30200ENGINES AND ENGINE PARTS (CARBURETORS, PISTONS, RINGS, AND VALVES)                                  
+30210BODIES AND CHASSIS FOR PASSENGER CARS                                                               
+30220AUTOMOTIVE TIRES AND TUBES                                                                          
+30230OTHER PARTS AND ACCESSORIES OF VEHICLES                                                             
+4    CONSUMER GOODS                                                                                      
+40   NONDURABLES, MANUFACTURED-EXCEPT RUGS                                                               
+400  APPAREL, FOOTWEAR, AND HOUSEHOLD GOODS                                                              
+40000APPAREL, HOUSEHOLD GOODS - TEXTILE                                                                  
+40030APPAREL,HOUSEHOLD GOODS-NONTEXTILE                                                                  
+40050SPORTS APPAREL AND GEAR                                                                             
+401  OTHER CONSUMER NONDURABLES                                                                          
+40100PHARMACEUTICAL PREPARATIONS                                                                         
+40110BOOKS, PRINTED MATTER                                                                               
+40120TOILETRIES AND COSMETICS                                                                            
+40130TOBACCO, MANUFACTURED                                                                               
+40140WRITING AND ART SUPPLIES                                                                            
+41   DURABLES, MANUFACTURED-EXCEPT AUTOMOTIVE                                                            
+410  HOUSEHOLD GOODS                                                                                     
+41000FURNITURE, HOUSEHOLD GOODS, ETC.                                                                    
+41010GLASSWARE, CHINAWARE                                                                                
+41020COOKWARE, CUTLERY, TOOLS                                                                            
+41030HOUSEHOLD APPLIANCES                                                                                
+41040RUGS                                                                                                
+41050OTHER HOUSEHOLD GOODS                                                                               
+411  RECREATIONAL EQUIPMENT AND MATERIALS                                                                
+41110PLEASURE BOATS AND MOTORS                                                                           
+41120TOYS, GAMES, AND SPORTING GOODS                                                                     
+41140MUSICAL INSTRUMENTS                                                                                 
+412  HOME ENTERTAINMENT EQUIPMENT                                                                        
+41200TV'S, VCR'S, ETC.                                                                                   
+41210STEREO EQUIPMENT, ETC.                                                                              
+41220RECORDS, TAPES, AND DISKS                                                                           
+413  COINS, GEMS, JEWELRY, AND COLLECTIBLES                                                              
+41300NUMISMATIC COINS                                                                                    
+41310JEWELRY, ETC.                                                                                       
+41320ARTWORK, ANTIQUES, STAMPS, ETC.                                                                     
+42   CONSUMER DURABLES AND NONDURABLES-UNMANUFACTURED                                                    
+420  NONDURABLES-UNMANUFACTURED                                                                          
+42000NURSERY STOCK, ETC.                                                                                 
+421  DURABLES-UNMANUFACTURED                                                                             
+42100GEM DIAMONDS                                                                                        
+5    OTHER GOODS                                                                                         
+50   MILITARY-TYPE GOODS                                                                                 
+500  MILITARY-TYPE GOODS                                                                                 
+50000MILITARY AIRCRAFT, COMPLETE                                                                         
+50010AIRCRAFT LAUNCHING GEAR, PARACHUTES, ETC.                                                           
+50020ENGINES AND TURBINES FOR MILITARY AIRCRAFT                                                          
+50030MILITARY TRUCKS, ARMORED VEHICLES, ETC.                                                             
+50040MILITARY SHIPS AND BOATS                                                                            
+50050TANKS, ARTILLERY, MISSILES, ROCKETS, GUNS AND AMMUNITION                                            
+50060MILITARY APPAREL AND FOOTWEAR                                                                       
+50070PARTS FOR MILITARY-TYPE GOODS                                                                       
+50090SPECIAL CATEGORY (MILITARY-TYPE GOODS)                                                              
+6    EXPORTS, N.E.C., AND REEXPORTS                                                                      
+60   DOMESTIC EXPORTS, N.E.C.                                                                            
+600  DOMESTIC EXPORTS, N.E.C.                                                                            
+60000MINIMUM VALUE SHIPMENTS                                                                             
+60010MISCELLANEOUS DOMESTIC EXPORTS AND SPECIAL TRANSACTIONS                                             
+60030PARTS FOR AIRCRAFT AND ENGINES                                                                      
+60040UNDOCUMENTED EXPORTS TO CANADA                                                                      
+61   REEXPORTS (EXPORTS OF FOREIGN MERCHANDISE)                                                          
+610  REEXPORTS (EXPORTS OF FOREIGN MERCHANDISE)                                                          
+61000AGRICULTURAL                                                                                        
+61020REEXPORTS OF MILITARY-TYPE GOODS                                                                    
+61030REEXPORTS OF NONMONETARY GOLD                                                                       
+61040OTHER NONAGRICULTURAL REEXPORTS                                                                     

@@ -1,0 +1,58 @@
+	                     
+FILENAME: EXP_DETL.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-1     	df              1-Digit Domestic or Foreign Code
+
+ 2-11    	commodity       10-Digit Schedule B Commodity Code
+ 
+ 12-15     	cty_code        4-Digit Country Code
+
+ 16-17     	district        2-Digit District Code
+ 
+ 18-21     	year   		4-Digit Statistical Year
+ 
+ 22-23    	month        	2-Digit Statistical Month
+
+ 24-38     	cards_mo       	15-Digit Card Count
+
+ 39-53     	qty_1_mo       	15-Digit Quantity 1
+
+ 54-68     	qty_2_mo        15-Digit Quantity 2
+
+ 69-83     	all_val_mo      15-Digit Total Value
+
+ 84-98     	air_val_mo      15-Digit Air Value
+
+ 99-113     	air_wgt_mo      15-Digit Air Shipping Weight
+
+ 114-128    	ves_val_mo      15-Digit Vessel Value
+
+ 129-143    	ves_wgt_mo      15-Digit Vessel Shipping Weight
+ 
+ 144-158    	cnt_val_mo      15-Digit Containerized Vessel Value
+
+ 159-173    	cnt_wgt_mo      15-Digit Containerized Vessel Shipping Weight
+
+ 174-188    	cards_yr        15-Digit Year-to-Date Card Count
+
+ 189-203    	qty_1_yr        15-Digit Year-to-Date Quantity 1
+
+ 204-218    	qty_2_yr        15-Digit Year-to-Date Quantity 2
+
+ 219-233    	all_val_yr      15-Digit Year-to-Date Total Value
+
+ 234-248	air_val_yr	15-Digit Year-to-Date Air Value
+
+ 249-263	air_wgt_yr	15-Digit Year-to-Date Air Shipping Weight
+
+ 264-278	ves_val_yr	15-Digit Year-to-Date Vessel Value
+
+ 279-293	ves_wgt_yr	15-Digit Year-to-Date Vessel Shipping Weight
+
+ 294-308	cnt_val_yr	15-Digit Year-to-Date Containerized Vessel Value
+
+ 309-323	cnt_wgt_yr	15-Digit Year-to-Date Containerized Vessel Shipping Weight

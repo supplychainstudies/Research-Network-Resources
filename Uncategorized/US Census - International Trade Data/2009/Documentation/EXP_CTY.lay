@@ -1,0 +1,47 @@
+
+	                     
+FILENAME: EXP_CTY.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-4     	cty_code        4-Digit Country Code
+
+ 5-34     	cty_name        30-Digit Country Name
+ 
+ 35-38     	year            4-Digit Statistical Year
+
+ 39-40     	month           2-Digit Statistical Month
+ 
+ 41-55     	cards_mo       	15-Digit Card Count
+ 	
+ 56-70     	all_val_mo      15-Digit Total Value
+
+ 71-85     	air_val_mo      15-Digit Air Value
+
+ 86-100     	air_wgt_mo      15-Digit Air Shipping Weight
+
+ 101-115     	ves_val_mo      15-Digit Vessel Value
+
+ 116-130   	ves_wgt_mo      15-Digit Vessel Shipping Weight
+
+ 131-145   	cnt_val_mo   	15-Digit Containerized Vessel Value
+
+ 146-160    	cnt_wgt_mo	15-Digit Containerized Vessel Shipping Weight
+
+ 161-175    	cards_yr        15-Digit Year-to-Date Card Count
+
+ 176-190    	all_val_yr      15-Digit Year-to-Date Total Value
+ 
+ 191-205    	air_val_yr	15-Digit Year-to-Date Air Value
+
+ 206-220    	air_wgt_yr	15-Digit Year-to-Date Air Shipping Weight
+
+ 221-235    	ves_val_yr	15-Digit Year-to-Date Vessel Value
+
+ 236-250    	ves_wgt_yr	15-Digit Year-to-Date Vessel Shipping Weight
+
+ 251-265    	cnt_val_yr	15-Digit Year-to-Date Containerized Vessel Value
+
+ 266-280 	cnt_wgt_yr	15-Digit Year-to-Date Containerized Vessel Shipping Weight

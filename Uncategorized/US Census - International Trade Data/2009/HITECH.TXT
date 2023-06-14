@@ -1,0 +1,10 @@
+01BIOTECHNOLOGY                 
+02LIFE SCIENCE                  
+03OPTO-ELECTRONICS              
+04INFORMATION & COMMUNICATIONS  
+05ELECTRONICS                   
+06FLEXIBLE MANUFACTURING        
+07ADVANCED MATERIALS            
+08AEROSPACE                     
+09WEAPONS                       
+10NUCLEAR TECHNOLOGY            

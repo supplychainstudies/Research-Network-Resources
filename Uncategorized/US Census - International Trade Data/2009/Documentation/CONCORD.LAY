@@ -1,0 +1,27 @@
+
+FILENAME: CONCORD.TXT
+
+*************************************************
+
+FIELD NO FIELD 	NAME     	DESCRIPTION
+
+ 1-10         	commodity       10-Digit Schedule B Commodity Code
+
+ 11-160        	descriptn       150-Digit Schedule B Commodity Code Description
+
+ 161-210       	abbreviatn    	50-Digit Schedule B Commodity Code Description
+
+ 211-213      	unit_qy1        3-Digit Unit of Quantity 1
+
+ 214-216       	unit_qy2        3-Digit Unit of Quantity 2
+
+ 217-221       	sitc         	5-Digit SITC Code
+
+ 222-226       	end_use       	5-Digit End Use Code
+
+ 227-232       	naics        	6-Digit NAICS Code
+	
+ 233-233       	usda     	1-Digit USDA Code
+
+ 234-235      	hitech      	2-Digit Hitech Code
+ 

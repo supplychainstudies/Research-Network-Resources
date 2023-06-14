@@ -1,0 +1,13 @@
+	                     
+FILENAME: ENDUSE.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     	DESCRIPTION
+
+ 1-5         	enduse       	5-Digit ENDUSE Code* 
+			  
+ 6-105         	eudesc        	100-Digit ENDUSE Description
+
+
+ *Includes 1, 2, 3, & 5 digit ENDUSE Codes & Descriptions

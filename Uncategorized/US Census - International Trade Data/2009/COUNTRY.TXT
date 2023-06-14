@@ -1,0 +1,237 @@
+1010GREENLDGREENLAND                                         
+1220CANADA CANADA                                            
+1610SP MQELST PIERRE AND MIQUELON                            
+2010MEXICO MEXICO                                            
+2050GUATMALGUATEMALA                                         
+2080BELIZE BELIZE                                            
+2110SALVADREL SALVADOR                                       
+2150HONDURAHONDURAS                                          
+2190NICARAGNICARAGUA                                         
+2230C RICA COSTA RICA                                        
+2250PANAMA PANAMA                                            
+2320BERMUDABERMUDA                                           
+2360BAHAMASBAHAMAS                                           
+2390CUBA   CUBA                                              
+2410JAMAICAJAMAICA                                           
+2430TURK ISTURKS AND CAICOS ISLANDS                          
+2440CAYMAN CAYMAN ISLANDS                                    
+2450HAITI  HAITI                                             
+2470DOM REPDOMINICAN REPUBLIC                                
+2481ANGLLA ANGUILLA                                          
+2482B VIRGNBRITISH VIRGIN ISLANDS                            
+2483ST K N ST KITTS AND NEVIS                                
+2484ANTIGUAANTIGUA AND BARBUDA                               
+2485MONSRATMONTSERRAT                                        
+2486DOMINCADOMINICA                                          
+2487S LUCIAST LUCIA                                          
+2488S VN GRST VINCENT AND THE GRENADINES                     
+2489GRENADAGRENADA                                           
+2720BARBADOBARBADOS                                          
+2740TRINID TRINIDAD AND TOBAGO                               
+2771N ANTILNETHERLANDS ANTILLES                              
+2779ARUBA  ARUBA                                             
+2831GUADLPEGUADELOUPE                                        
+2839MARTINQMARTINIQUE                                        
+3010COLOMB COLOMBIA                                          
+3070VENEZ  VENEZUELA                                         
+3120GUYANA GUYANA                                            
+3150SURINAMSURINAME                                          
+3170F GUIANFRENCH GUIANA                                     
+3310ECUADORECUADOR                                           
+3330PERU   PERU                                              
+3350BOLIVIABOLIVIA                                           
+3370CHILE  CHILE                                             
+3510BRAZIL BRAZIL                                            
+3530PARAGUAPARAGUAY                                          
+3550URUGUAYURUGUAY                                           
+3570ARGENT ARGENTINA                                         
+3720FALK ISFALKLAND ISLANDS                                  
+4000ICELANDICELAND                                           
+4010SWEDEN SWEDEN                                            
+4031SV JM ISVALBARD, JAN MAYEN ISLAND                        
+4039NORWAY NORWAY                                            
+4050FINLANDFINLAND                                           
+4091FAROE  FAROE ISLANDS                                     
+4099DENMARKDENMARK                                           
+4120U KING UNITED KINGDOM                                    
+4190IRELANDIRELAND                                           
+4210NETHLDSNETHERLANDS                                       
+4231BELGIUMBELGIUM                                           
+4239LUXMBRGLUXEMBOURG                                        
+4271ANDORRAANDORRA                                           
+4272MONACO MONACO                                            
+4279FRANCE FRANCE                                            
+4280FR GERMFEDERAL REPUBLIC OF GERMANY                       
+4330AUSTRIAAUSTRIA                                           
+4351CZECH  CZECH REPUBLIC                                    
+4359SLOVAK SLOVAKIA                                          
+4370HUNGARYHUNGARY                                           
+4411LICHTENLIECHTENSTEIN                                     
+4419SWITZLDSWITZERLAND                                       
+4470ESTONIAESTONIA                                           
+4490LATVIA LATVIA                                            
+4510LITHUANLITHUANIA                                         
+4550POLAND POLAND                                            
+4621RUSSIA RUSSIA                                            
+4622BELAR  BELARUS                                           
+4623UKRAINEUKRAINE                                           
+4631ARMENIAARMENIA                                           
+4632AZERBJNAZERBAIJAN                                        
+4633GEORGIAGEORGIA                                           
+4634KAZAKHSKAZAKHSTAN                                        
+4635KYRGYZSKYRGYZSTAN                                        
+4641MOLDOVAMOLDOVA                                           
+4642TAJIKISTAJIKISTAN                                        
+4643TURKMENTURKMENISTAN                                      
+4644UZBEKISUZBEKISTAN                                        
+4700SPAIN  SPAIN                                             
+4710PORTUGLPORTUGAL                                          
+4720GIBRALTGIBRALTAR                                         
+4730MALTA  MALTA                                             
+4751SAN MARSAN MARINO                                        
+4752VAT CTYVATICAN CITY                                      
+4759ITALY  ITALY                                             
+4791CROATIACROATIA                                           
+4792SLVENIASLOVENIA                                          
+4793BOSNIA BOSNIA-HERCEGOVINA                                
+4794MACEDONMACEDONIA (SKOPJE)                                
+4801SERBIA SERBIA                                            
+4803KOSOVO KOSOVO                                            
+4804MONTENEMONTENEGRO                                        
+4810ALBANIAALBANIA                                           
+4840GREECE GREECE                                            
+4850ROMANIAROMANIA                                           
+4870BULGAR BULGARIA                                          
+4890TURKEY TURKEY                                            
+4910CYPRUS CYPRUS                                            
+5020SYRIA  SYRIA                                             
+5040LEBANONLEBANON                                           
+5050IRAQ   IRAQ                                              
+5070IRAN   IRAN                                              
+5081ISRAEL ISRAEL                                            
+5082GAZA   GAZA STRIP ADMINISTERED BY ISRAEL                 
+5083WESTBNKWEST BANK ADMINISTERED BY ISRAEL                  
+5110JORDAN JORDAN                                            
+5130KUWAIT KUWAIT                                            
+5170S ARAB SAUDI ARABIA                                      
+5180QATAR  QATAR                                             
+5200ARAB EMUNITED ARAB EMIRATES                              
+5210YEMEN  REPUBLIC OF YEMEN                                 
+5230OMAN   OMAN                                              
+5250BAHRAINBAHRAIN                                           
+5310AFGHAN AFGHANISTAN                                       
+5330INDIA  INDIA                                             
+5350PAKISTNPAKISTAN                                          
+5360NEPAL  NEPAL                                             
+5380BNGLDSHBANGLADESH                                        
+5420SRI LKASRI LANKA                                         
+5460BURMA  BURMA (MYANMAR)                                   
+5490THAILNDTHAILAND                                          
+5520VIETNAMVIETNAM                                           
+5530LAOS   LAOS                                              
+5550CAMBOD CAMBODIA                                          
+5570MALAYSAMALAYSIA                                          
+5590SINGAPRSINGAPORE                                         
+5600INDNSIAINDONESIA                                         
+5601TIM-LESTIMOR-LESTE                                       
+5610BRUNEI BRUNEI                                            
+5650PHIL R PHILIPPINES                                       
+5660MACAO  MACAO                                             
+5682BHUTAN BHUTAN                                            
+5683MALDIVEMALDIVES                                          
+5700CHINA  CHINA                                             
+5740MONGOLAMONGOLIA                                          
+5790NO KOR NORTH KOREA                                       
+5800KOR REPKOREA, SOUTH                                      
+5820HG KONGHONG KONG                                         
+5830TAIWAN TAIWAN                                            
+5880JAPAN  JAPAN                                             
+6021AUSTRALAUSTRALIA                                         
+6022NORFOLKNORFOLK ISLAND                                    
+6023COCOS ICOCOS (KEELING) ISLAND                            
+6024CRIST ICHRISTMAS ISLAND                                  
+6029HEARD IHEARD AND MCDONALD ISLANDS                        
+6040NEW GUIPAPUA NEW GUINEA                                  
+6141N ZEAL NEW ZEALAND                                       
+6142COOK ISCOOK ISLANDS                                      
+6143TOKELAUTOKELAU                                           
+6144NIUE   NIUE                                              
+6150W SAMOAWESTERN SAMOA                                     
+6223SOLMN ISOLOMON ISLANDS                                   
+6224VANUATUVANUATU                                           
+6225PITCARNPITCAIRN ISLAND                                   
+6226KIRIBATKIRIBATI                                          
+6227TUVALU TUVALU                                            
+6412N CALDNNEW CALEDONIA                                     
+6413WALLIS WALLIS AND FUTUNA                                 
+6414FR POLYFRENCH POLYNESIA                                  
+6810MARSHALMARSHALL ISLANDS                                  
+6820MICRONSFEDERATED STATES OF MICRONESIA                    
+6830PALAU  PALAU                                             
+6862NAURU  NAURU                                             
+6863FIJI   FIJI                                              
+6864TONGA  TONGA                                             
+7140MOROC  MOROCCO                                           
+7210ALGERIAALGERIA                                           
+7230TUNISIATUNISIA                                           
+7250LIBYA  LIBYA                                             
+7290EGYPT  EGYPT                                             
+7320SUDAN  SUDAN                                             
+7370W SAHARWESTERN SAHARA                                    
+7380EQ GUINEQUATORIAL GUINEA                                 
+7410MAURITNMAURITANIA                                        
+7420CAMROONCAMEROON                                          
+7440SENEGALSENEGAL                                           
+7450MALI   MALI                                              
+7460GUINEA GUINEA                                            
+7470SIER LNSIERRA LEONE                                      
+7480IVY CSTCOTE D'IVOIRE                                     
+7490GHANA  GHANA                                             
+7500GAMBIA GAMBIA                                            
+7510NIGER  NIGER                                             
+7520TOGO   TOGO                                              
+7530NIGERIANIGERIA                                           
+7540C AF RPCENTRAL AFRICAN REPUBLIC                          
+7550GABON  GABON                                             
+7560CHAD   CHAD                                              
+7580S HELN ST HELENA                                         
+7600BURKINABURKINA                                           
+7610BENIN  BENIN                                             
+7620ANGOLA ANGOLA                                            
+7630CONGO BCONGO (BRAZZAVILLE)                               
+7642G BISAUGUINEA-BISSAU                                     
+7643C VERDECAPE VERDE                                        
+7644SAO T PSAO TOME AND PRINCIPE                             
+7650LIBERIALIBERIA                                           
+7660CONGO CCONGO (KINSHASA)                                  
+7670BURUNDIBURUNDI                                           
+7690RWANDA RWANDA                                            
+7700SOMALIASOMALIA                                           
+7741ERITREAERITREA                                           
+7749ETHIOP ETHIOPIA                                          
+7770DJIBUTIDJIBOUTI                                          
+7780UGANDA UGANDA                                            
+7790KENYA  KENYA                                             
+7800SEYCHELSEYCHELLES                                        
+7810B IND OBRITISH INDIAN OCEAN TERRITORIES                  
+7830TNZANIATANZANIA                                          
+7850MAURIT MAURITIUS                                         
+7870MOZAMBQMOZAMBIQUE                                        
+7880MADAGASMADAGASCAR                                        
+7881MAYOTTEMAYOTTE                                           
+7890COMOROSCOMOROS                                           
+7904REUNIONREUNION                                           
+7905F SO ANFRENCH SOUTHERN AND ANTARCTIC LANDS               
+7910REP SAFSOUTH AFRICA                                      
+7920NAMIBIANAMIBIA                                           
+7930BOTSWANBOTSWANA                                          
+7940ZAMBIA ZAMBIA                                            
+7950SWAZLANSWAZILAND                                         
+7960ZMBABWEZIMBABWE                                          
+7970MALAWI MALAWI                                            
+7990LESOTHOLESOTHO                                           
+8220UNIDENTUNIDENTIFIED COUNTRIES                            
+8500INT ORGINTERNATIONAL ORGANIZATIONS                       
+9000PR T USPUERTO TO US                                      
+9030P RICO PUERTO RICO                                       
+9110VIRG ISVIRGIN ISLANDS OF THE UNITED STATES               

@@ -1,0 +1,15 @@
+	                     
+FILENAME: HSDESC.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-6         	commodity     	6-Digit Harmonized Code*
+
+ 7-156         	descriptn      	150-Digit Commodity Description
+
+ 157-206      	abbreviatn    	50-Digit Commodity Description
+
+
+*Includes 2, 4, & 6 digit HS Codes

@@ -1,0 +1,12 @@
+	                     
+FILENAME: HITECH.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     	DESCRIPTION
+
+ 1-2       	hitech       	2-Digit HITECH Code 
+			  
+ 3-32         	hidesc        	30-Digit HITECH Description
+
+ 

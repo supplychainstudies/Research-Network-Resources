@@ -1,0 +1,13 @@
+	                     
+FILENAME: NAICS.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     	DESCRIPTION*
+
+ 1-6         	naics       	6-Digit NAICS Code 
+
+ 7-56         	naicdesc      	50-Digit NAICS Description
+
+ 
+*Includes 2, 3, 4, 5, & 6 digit NAICS Codes

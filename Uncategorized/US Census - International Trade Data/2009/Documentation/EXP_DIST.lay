@@ -1,0 +1,46 @@
+	                     
+FILENAME: EXP_DIST.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-2     	district        2-Digit District Code
+
+ 3-32     	dist_name       30-Digit District Name
+ 
+ 33-36     	year   		4-Digit Statistical Year
+
+ 37-38     	month           2-Digit Statistical Month
+ 
+ 39-53     	cards_mo       	15-Digit Card Count
+ 
+ 54-68     	all_val_mo      15-Digit Total Value
+
+ 69-83     	air_val_mo      15-Digit Air Value
+
+ 84-98     	air_wgt_mo      15-Digit Air Shipping Weight
+
+ 99-113     	ves_val_mo      15-Digit Vessel Value
+
+ 114-128    	ves_wgt_mo      15-Digit Vessel Shipping Weight
+
+ 129-143    	cnt_val_mo   	15-Digit Containerized Vessel Value
+
+ 144-158    	cnt_wgt_mo   	15-Digit Containerized Vessel Shipping Weight
+
+ 159-173    	cards_yr        15-Digit Year-to-Date Card Count
+
+ 174-188    	all_val_yr      15-Digit Year-to-Date Total Value
+ 
+ 189-203    	air_val_yr	15-Digit Year-to-Date Air Value
+
+ 204-218    	air_wgt_yr	15-Digit Year-to-Date Air Shipping Weight
+
+ 219-233   	ves_val_yr	15-Digit Year-to-Date Vessel Value
+
+ 234-248    	ves_wgt_yr	15-Digit Year-to-Date Vessel Shipping Weight
+
+ 249-263    	cnt_val_yr	15-Digit Year-to-Date Containerized Vessel Value
+
+ 264-278    	cnt_wgt_yr	15-Digit Year-to-Date Containerized Vessel Shipping Weight

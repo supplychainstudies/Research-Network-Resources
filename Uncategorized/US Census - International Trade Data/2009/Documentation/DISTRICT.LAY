@@ -1,0 +1,13 @@
+                     
+FILENAME: DISTRICT.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     	DESCRIPTION
+
+ 1-2         	dist_code     	2-Digit District Code
+
+ 3-9         	dist_desc       7-Digit District Description
+
+ 10-59        	dist_name      	50-Digit District Name
+

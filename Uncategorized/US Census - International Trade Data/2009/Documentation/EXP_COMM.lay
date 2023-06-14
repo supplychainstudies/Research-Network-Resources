@@ -1,0 +1,60 @@
+                  
+FILENAME: EXP_COMM.TXT
+
+*************************************************
+
+FIELD NO 	FIELD NAME     DESCRIPTION
+
+ 1-1     	df              1-Digit Domestic or Foreign Code
+
+ 2-11     	commodity       10-Digit Schedule B Commodity Code
+ 
+ 12-61     	comm_desc       50-Digit Schedule B Commodity Code
+
+ 62-64     	unit_qy1        3-Digit Unit of Quantity 1
+ 
+ 65-67     	unit_qy2        3-Digit Unit of Quantity 2
+ 
+ 68-71     	year            4-Digit Statistical Year
+
+ 72-73     	month      	2-Digit Statistical month
+	
+ 74-88     	cards_mo       	15-Digit Card Count
+
+ 89-103     	qty_1_mo   	15-Digit Quantity 1
+
+ 104-118    	qty_2_mo   	15-Digit Quantity 2
+
+ 119-133    	all_val_mo      15-Digit Total Value
+
+ 134-148    	air_val_mo      15-Digit Air Value
+
+ 149-163    	air_wgt_mo      15-Digit Air Shipping Weight
+
+ 164-178	ves_val_mo      15-Digit Vessel Value
+
+ 179-193	ves_wgt_mo      15-Digit Vessel Shipping Weight
+
+ 194-208	cnt_val_mo   	15-Digit Containerized Vessel Value
+
+ 209-223	cnt_wgt_mo	15-Digit Containerized Vessel Shipping Weight
+
+ 224-238	cards_yr        15-Digit Year-to-Date Card Count
+
+ 239-253	qty_1_yr   	15-Digit Year-to-Date Quantity 1
+
+ 254-268	qty_2_yr   	15-Digit Year-to-Date Quantity 2
+
+ 269-283	all_val_yr      15-Digit Year-to-Date Total Value
+
+ 284-298	air_val_yr	15-Digit Year-to-Date Air Value
+
+ 299-313	air_wgt_yr	15-Digit Year-to-Date Air Shipping Weight
+
+ 314-328	ves_val_yr	15-Digit Year-to-Date Vessel Value
+
+ 329-343	ves_wgt_yr	15-Digit Year-to-Date Vessel Shipping Weight
+
+ 344-358	cnt_val_yr	15-Digit Year-to-Date Containerized Vessel Value
+
+ 359-373	cnt_wgt_yr	15-Digit Year-to-Date Containerized Vessel Shipping Weight

@@ -1,0 +1,67 @@
+Date Printed: December 19, 2008        SCHEDULE B Changes Effective  January 2009
+
+                                       DISCLAIMER
+
+1.  The descriptions in this table are limited to 50 spaces.  To determine the complete commodity
+    descriptions, see the latest Schedule B reference sources containing these descriptions.
+       http://www.census.gov/scheduleb
+
+2.  This 'Obsolete to New' table is NOT an official publication of the U.S. Census Bureau and
+    represents only FTD's opinion of how the new classifications relate to those being deleted.
+    It is not reviewed by any other agency and is intended to be used only as a guide for trade data
+    users.  For reporting purposes, refer to the actual export classification reporting manual
+    (Schedule B) and related documents.
+
+ FOOT-   OBSOLETE      NEW           ALPHA                                                    UNIT    OF     UNIT    OF
+ NOTES   SCHEDULE B    SCHEDULE B    DESCRIPTION                                              QUANTITY 1     QUANTITY 2     AGCODE  END USE   SITC      NAICS     HI-TECH
+
+         0303620005                  PATAGONIAN TOOTHFISH, FROZN, EXCEPT FILLETS/LIVER        KG                            1       01000     03428     114111    00
+         0303629000                  TOOTHFISH, FROZEN, EXCPT FILLETS, LIVERS, ROE, NES       KG                            1       01000     03428     114111    00
+                       0303620000    TOOTHFISH, FROZEN, EXCEPT FILLETS, LIVERS AND ROES       KG                            1       01000     03428     114111    00
+
+         0304220003                  PATAGONIAN TOOTHFISH FILLETS, FROZEN                     KG                            1       01000     03440     114111    00
+         0304229000                  TOOTHFISH FILLETS, FROZEN, NESOI                         KG                            1       01000     03440     114111    00
+                       0304220000    TOOTHFISH FILLETS, FROZEN                                KG                            1       01000     03440     114111    00
+
+         0306110000                  ROCK LOBSTER AND OTHER SEA CRAWFISH, FROZEN              KG                            1       01000     03619     114112    00
+                       0306110010    CARIBBEAN SPINY LOBSTER (PANULIRUS ARGUS), FROZEN        KG                            1       01000     03619     114112    00
+                       0306110020    ROCK LOBSTER AND OTHER SEA CRAWFISH, FROZEN, NESOI       KG                            1       01000     03619     114112    00
+
+         0701900000                  POTATOES (EXCEPT SEED), FRESH OR CHILLED                 KG                            0       00330     05410     111211    00
+                       0701900050    POTATOES FRESH OR CHILLED LT=1200 KG NET EXC SEED        KG                            0       00330     05410     111211    00
+                       0701900090    POTATOES, FRESH OR CHILLED, NESOI                        KG                            0       00330     05410     111211    00
+
+         2710191005                  LIGHT FUEL OILS GT=25 DEG API, LT=500 PPM SULFUR         BBL                           1       11110     33460     324110    00
+                       2710190910    LIGHT FUEL OILS GT=25 DEG API, LT=15 PPM SULFUR          BBL                           1       11110     33460     324110    00
+                       2710190920    LIGHT FUEL OILS GT=25 DEG API 15 TO 500 PPM SULFUR       BBL                           1       11110     33460     324110    00
+
+ 1       2710191007                  LIGHT FUEL OIL GT=25 DEG API, GT 500 PPM SULFUR          BBL                           1       11110     33460     324110    00
+ 1                     2710190925    LIGHT FUEL OIL GT=25 DEG API, GT 500 PPM SULFUR          BBL                           1       11110     33460     324110    00
+
+ 2       3822000002                  DIAGNOSTIC/LAB REAGENTS, EXC  3002/3006; CERT REF        KG                            1       12550     59869     325412    00
+ 2                     3822000002    DIAGNOSTIC/LAB REAGENTS, EXC  3002/3006; CERT REF        X                             1       12550     59869     325412    00
+
+ 1       7017900010                  MICROSCPE SLIDES A MICRO COVER GLASSES OF GLS NESI       X                             1       21600     66591     327212    00
+ 1                     7017901000    MICROSCPE SLIDES A MICRO COVER GLASSES OF GLS NESI       X                             1       21600     66591     327212    00
+
+ 1       7017900050                  OTHER LABORATORY, HYGIENIC OR PHARM GLASSWR NESOI        X                             1       21600     66591     327212    00
+ 1                     7017905000    OTHER LABORATORY, HYGIENIC OR PHARM GLASSWR NESOI        X                             1       21600     66591     327212    00
+
+         8523520000                  SMART CARDS                                              NO                            1       21320     89846     334413    05
+                       8523520010    SMART CARDS, UNRECORDED                                  NO                            1       12765     89846     334413    05
+                       8523520090    SMART CARDS, RECORDED                                    NO                            1       21320     89846     334413    05
+
+ 3       8527993010                  RADIO RECEIVERS NOT EXCEEDING 30 MHZ, NESOI              NO                            1       21400     76289     334220    00
+ 3       8527993020                  RADIO RECEIVERS (30 - 400 MHZ), NESOI                    NO                            1       21400     76289     334220    00
+ 3       8527993030                  RADIO RECEIVERS, EXCEEDING 400 MHZ NESOI                 NO                            1       21400     76289     334220    04
+ 3                     8527993060    RADIO RECEIVERS, NOT FOR USE IN CIVIL AIRCRAFT           NO                            1       21400     76289     334220    04
+
+
+ F O O T N O T E S
+
+1   RENUMBER ONLY; NO CHANGE IN COVERAGE.
+
+2   UNIT OF QUANTITY CHANGE ONLY.
+
+3   IN CONCORDANCE WITH PRESIDENTIAL PROCLAMATION 8228, PUBLISHED IN FR APRIL 2, 2008.
+

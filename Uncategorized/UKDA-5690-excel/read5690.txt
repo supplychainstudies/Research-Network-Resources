@@ -1,0 +1,55 @@
+5690 - East India Company: Trade and Domestic Financial Statistics, 1755-1838
+
+
+
+Data Set Type
+=============
+
+Data files (68 tables)
+
+
+
+Data Set Format
+===============
+The following data formats have been prepared by AHDS History:
+
+Tab delimited text files (41 files)
+
+OR
+
+MSExcel files (27 files, containing 41 worksheets in total)
+
+If requested, data may have been supplied in other formats where
+practicable.
+
+
+
+Documentation
+=============
+Please note, that the filenames mentioned in the documentation have been 
+altered slightly e.g. that Exports_Broad_Cloth.xls has become 
+exports_broad_cloth.xls, etc...
+
+
+
+File Name Changes
+=================
+Please note that in creating the preservation versions of this data collection
+(tab delimited files), AHDS History separated each of the 14 *.xls 
+files which contained two worksheets into two *.tab files:
+
+e.g. 'Exports_Broad_Cloth.xls' has been divided into 
+'exports_broad_cloth_invoice_value_in_£s.tab' and 
+'exports_broad_cloth_quantity_in_cloths.tab'.
+
+
+
+History Data Service, 06/06/2011
+UK Data Archive
+University of Essex
+Colchester CO4 3SQ
+
+Tel: +44 (0)1206 872326
+Fax: +44 (0)1206 872003
+Email: hds@essex.ac.uk
+URL: http://hds.essex.ac.uk/
