@@ -1,4 +1,4 @@
-These are collective resources (data, documents, etc.) for the Supply Studies Research Network.
+These are collective resources (data, documents, etc.) for the [Supply Studies Research Network](https://supplystudies.com/research-network/).
 
 ![](https://supplystudies.com/assets/images/content/ssrn.png)
 
