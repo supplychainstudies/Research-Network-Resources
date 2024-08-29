@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Cobalt Mines and Refineries 2016</name>
+    <description/>
+    <Style id="icon-1565-BDBDBD-labelson">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1627-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1627-0F9D58-labelson">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1627-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1627-FFD600-labelson">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Producing mines 2016.xlsx</name>
+      <Placemark>
+        <name>Ravensthorpe (Bandalup)</name>
+        <description><![CDATA[Country: Australia<br>Latitude: -33.65000<br>Longitude: 120.40000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 920<br>Operator: First Quantum Minerals<br>References: Indian Bureau of Mines (2017), Australian Mining (2018).]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-33.65000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>120.40000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>920.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>First Quantum Minerals</value>
+          </Data>
+          <Data name="References">
+            <value>Indian Bureau of Mines (2017), Australian Mining (2018).</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.4,-33.65,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murrin Murrin</name>
+        <description><![CDATA[Country: Australia<br>Latitude: -28.77000<br>Longitude: 121.89000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 2800<br>Operator: Minara Resources <br>References: Australian Mining (2018), Glencore (2016)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-28.77000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>121.89000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2800.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Minara Resources </value>
+          </Data>
+          <Data name="References">
+            <value>Australian Mining (2018), Glencore (2016)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.89,-28.77,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Savannah</name>
+        <description><![CDATA[Country: Australia<br>Latitude: -17.35000<br>Longitude: 128.00000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 476<br>Operator: Panoramic Resources <br>References: USGS (2017b)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.35000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>128.00000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>476.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Panoramic Resources </value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017b)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            128,-17.35,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenville/Townsville, Queensland</name>
+        <description><![CDATA[Country: Australia<br>Latitude: -19.25897<br>Longitude: 146.81696<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 1850<br>Operator: Queensland Nickel Group<br>References: USGS (2017b)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-19.25897</value>
+          </Data>
+          <Data name="Longitude">
+            <value>146.81696</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>1850.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Queensland Nickel Group</value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017b)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            146.81696,-19.25897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selebi-Phikwe Mines</name>
+        <description><![CDATA[Country: Botswana<br>Latitude: -21.94694<br>Longitude: 27.85528<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 400<br>Operator: Bamangwato Concessions <br>References: USGS (2017c), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Botswana</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.94694</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.85528</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>400.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Bamangwato Concessions </value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017c), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.85528,-21.94694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vermelho </name>
+        <description><![CDATA[Country: Brazil<br>Latitude: -6.24000<br>Longitude: -49.75000<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 2500<br>Operator: Horizonte Minerals Plc<br>References: USGS (2017a), USGS (2017b), Horizonte Minerals (2018)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Brazil</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-6.24000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.75000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2500.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Horizonte Minerals Plc</value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017a), USGS (2017b), Horizonte Minerals (2018)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -49.75,-6.24,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Voisey’s Bay</name>
+        <description><![CDATA[Country: Canada<br>Latitude: 56.38354<br>Longitude: -62.11158<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 887<br>Operator: Vale<br>References: Vale (2016), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>56.38354</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-62.11158</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>887.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Vale</value>
+          </Data>
+          <Data name="References">
+            <value>Vale (2016), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -62.11158,56.38354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raglan</name>
+        <description><![CDATA[Country: Canada<br>Latitude: 61.59000<br>Longitude: -74.29000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 1000<br>Operator: Glencore<br>References:  Natural Resources Canada (2018), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>61.59000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.29000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>1000.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Glencore</value>
+          </Data>
+          <Data name="References">
+            <value> Natural Resources Canada (2018), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.29,61.59,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sudbury </name>
+        <description><![CDATA[Country: Canada<br>Latitude: 46.63000<br>Longitude: -81.38000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 882<br>Operator: Vale Canada Limited<br>References:  Natural Resources Canada (2018), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.63000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-81.38000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>882.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Vale Canada Limited</value>
+          </Data>
+          <Data name="References">
+            <value> Natural Resources Canada (2018), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.38,46.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nickel Rim South, Fraser</name>
+        <description><![CDATA[Country: Canada<br>Latitude: 46.66275<br>Longitude: -80.74211<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 100<br>Operator: Glencore Canada Corporation<br>References:  Natural Resources Canada (2018), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.66275</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-80.74211</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>100.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Glencore Canada Corporation</value>
+          </Data>
+          <Data name="References">
+            <value> Natural Resources Canada (2018), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -80.74211,46.66275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Copper Cliff North</name>
+        <description><![CDATA[Country: Canada<br>Latitude: 46.50322<br>Longitude: -81.06872<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 606<br>Operator: Vale Canada Limited<br>References:  Natural Resources Canada (2018), BGR Data (2019), Ontario Prospectors Association (2016)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.50322</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-81.06872</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>606.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Vale Canada Limited</value>
+          </Data>
+          <Data name="References">
+            <value> Natural Resources Canada (2018), BGR Data (2019), Ontario Prospectors Association (2016)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.06872,46.50322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thompson</name>
+        <description><![CDATA[Country: Canada<br>Latitude: 55.71191<br>Longitude: -97.80273<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 700<br>Operator: Vale Canada Limited<br>References:  Natural Resources Canada (2018), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="Latitude">
+            <value>55.71191</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-97.80273</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>700.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Vale Canada Limited</value>
+          </Data>
+          <Data name="References">
+            <value> Natural Resources Canada (2018), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.80273,55.71191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalatongke</name>
+        <description><![CDATA[Country: China<br>Latitude: 46.75750<br>Longitude: 89.67639<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 106<br>Operator: Yuanjiang Nickel<br>References: DERA (2018)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.75750</value>
+          </Data>
+          <Data name="Longitude">
+            <value>89.67639</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>106.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Yuanjiang Nickel</value>
+          </Data>
+          <Data name="References">
+            <value>DERA (2018)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            89.67639,46.7575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yuanjiang</name>
+        <description><![CDATA[Country: China<br>Latitude: 23.50000<br>Longitude: 101.75000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 82<br>Operator: Xinjiang Xinxin Mining Industry<br>Co., Ltd<br>References: DERA (2018)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="Latitude">
+            <value>23.50000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>101.75000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>82.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Xinjiang Xinxin Mining Industry
+Co., Ltd</value>
+          </Data>
+          <Data name="References">
+            <value>DERA (2018)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            101.75,23.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moa Nickel S.A. (mine and processing plant)</name>
+        <description><![CDATA[Country: Cuba<br>Latitude: 20.60000<br>Longitude: -74.96000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 3694<br>Operator: Sherritt International<br>References: Investing News (2018), Sheritt International (2017:p19),USGS (2017a), BGR Data (2019), Brown: Sherritt reported only 50% of the total production]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Cuba</value>
+          </Data>
+          <Data name="Latitude">
+            <value>20.60000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-74.96000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>3694.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Sherritt International</value>
+          </Data>
+          <Data name="References">
+            <value>Investing News (2018), Sheritt International (2017:p19),USGS (2017a), BGR Data (2019), Brown: Sherritt reported only 50% of the total production</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.96,20.6,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Usoke production plant</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -11.63000<br>Longitude: 27.58000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 2400<br>Operator: Chemaf<br>References: Congomines.org, USGS (2017a), Chemaf (2018)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.63000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.58000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2400.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Chemaf</value>
+          </Data>
+          <Data name="References">
+            <value>Congomines.org, USGS (2017a), Chemaf (2018)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.58,-11.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Etoile, Etoile HMS 1,
+Etoile HMS 2</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -11.63000<br>Longitude: 27.58000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 3800<br>Operator: Shalina Resources Ltd<br>References: CongoMines (2018), USGS (2017a), BGR (2017)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.63000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.58000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>3800.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Shalina Resources Ltd</value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), BGR (2017)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.58,-11.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruashi Mine</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -11.63000<br>Longitude: 27.58000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 3264<br>Operator: Metorex<br>References: Chemaf (2018), CongoMines (2018), USGS (2017a)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.63000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.58000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>3264.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Metorex</value>
+          </Data>
+          <Data name="References">
+            <value>Chemaf (2018), CongoMines (2018), USGS (2017a)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.58,-11.63,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kakanda, Lwita Est, Mukondo Mountain</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -10.74000<br>Longitude: 26.40000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 5100<br>Operator: Boss mining<br>References: CongoMines (2018), USGS (2017a), Eurasian Natural Resources Corporation (2017)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.74000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>26.40000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>5100.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Boss mining</value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), Eurasian Natural Resources Corporation (2017)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.4,-10.74,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kamoto, Kananga, KOV, Mashamba Est, T17, Tilwezembe</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -10.72000<br>Longitude: 25.40000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 2901<br>Operator: Katanga Mining Limited <br>References: CongoMines (2018), USGS (2017a), BGR (2017)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.72000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>25.40000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2901.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Katanga Mining Limited </value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), BGR (2017)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.4,-10.72,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luishia</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -11.17000<br>Longitude: 27.01000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 480<br>Operator: Miniere du Sud Katanga (CMSK)<br>References: CongoMines (2018), USGS (2017a)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.17000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.01000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>480.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Miniere du Sud Katanga (CMSK)</value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.01,-11.17,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luiswishi</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -11.51000<br>Longitude: 27.42000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 6200<br>Operator: Huayou Cobalt (previously Congo Dongfang International Mining (CDM))<br>References: CongoMines (2018), USGS (2017a), BGR (2017)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.51000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.42000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>6200.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Huayou Cobalt (previously Congo Dongfang International Mining (CDM))</value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), BGR (2017)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.42,-11.51,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mutanda North (ex-Kansuki), Mutanda South, </name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -10.79000<br>Longitude: 25.81000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 24500<br>Operator: Mutanda ya Mukonkota Mining (MUMI) <br>References: CongoMines (2018), USGS (2017a), Glencore (2016)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.79000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>25.81000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>24500.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Mutanda ya Mukonkota Mining (MUMI) </value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), Glencore (2016)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            25.81,-10.79,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tenke Fungurume:  Fwaulu, Fungurume, Kansalawile, Kwatebala, Mambilima, Mwadinkomba, and Tenke.</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>Latitude: -10.58000<br>Longitude: 26.19000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 16053<br>Operator: Tenke Fungurume Mining (TFM)<br>References: CongoMines (2018), USGS (2017a), Lundin Mining (2017)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-10.58000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>26.19000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>16053.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Tenke Fungurume Mining (TFM)</value>
+          </Data>
+          <Data name="References">
+            <value>CongoMines (2018), USGS (2017a), Lundin Mining (2017)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.19,-10.58,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kevitsa</name>
+        <description><![CDATA[Country: Finland<br>Latitude: 67.70000<br>Longitude: 29.97000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 420<br>Operator: Boliden<br>References: Boliden (2017), USGS (2017a), USGS (2017b), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Finland</value>
+          </Data>
+          <Data name="Latitude">
+            <value>67.70000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>29.97000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>420.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Boliden</value>
+          </Data>
+          <Data name="References">
+            <value>Boliden (2017), USGS (2017a), USGS (2017b), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.97,67.7,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sotkamo (formerly Talvivaara)</name>
+        <description><![CDATA[Country: Finland<br>Latitude: 63.98000<br>Longitude: 28.17000<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 20<br>Operator: Terrafame Mining<br>References: USGS (2017a), Yle (2018),  Talvivaara Mining Company Plc (2013), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Finland</value>
+          </Data>
+          <Data name="Latitude">
+            <value>63.98000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>28.17000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>20.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Terrafame Mining</value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017a), Yle (2018),  Talvivaara Mining Company Plc (2013), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.17,63.98,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halmahera/Weda Bay</name>
+        <description><![CDATA[Country: Indonesia<br>Latitude: -0.50000<br>Longitude: 127.94000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 400<br>Operator: Eramet<br>References: Eramet (2010), USGS (2017a)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Indonesia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-0.50000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>127.94000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>400.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Eramet</value>
+          </Data>
+          <Data name="References">
+            <value>Eramet (2010), USGS (2017a)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            127.94,-0.5,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ambatovy</name>
+        <description><![CDATA[Country: Madagascar<br>Latitude: -18.87000<br>Longitude: 48.35000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 1309<br>Operator: Sherritt International<br>References: Sherritt International (2017:p19), Wikipedia (2018c), USGS (2017a), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Madagascar</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.87000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>48.35000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>1309.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Sherritt International</value>
+          </Data>
+          <Data name="References">
+            <value>Sherritt International (2017:p19), Wikipedia (2018c), USGS (2017a), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            48.35,-18.87,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bou Azzer </name>
+        <description><![CDATA[Country: Morocco<br>Latitude: 30.8356067<br>Longitude: -6.9121949<br>Cobalt  by-product: Cobalt<br>Cobalt Production (t) 2016: 2081<br>Operator: Compagnie de Tifnout Tiranimine (CTT)<br>References: USGS (2017a), Managem Group (2016)]]></description>
+        <styleUrl>#icon-1627-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Morocco</value>
+          </Data>
+          <Data name="Latitude">
+            <value>30.8356067</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-6.9121949</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Cobalt</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2081.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Compagnie de Tifnout Tiranimine (CTT)</value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017a), Managem Group (2016)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.9121949,30.8356067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goro (VNC)</name>
+        <description><![CDATA[Country: New Caledonia<br>Latitude: -22.31000<br>Longitude: 166.93000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 3188<br>Operator: Goro (VNC)<br>References: USGS (2017a), Vale (2016), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>New Caledonia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-22.31000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>166.93000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>3188.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Goro (VNC)</value>
+          </Data>
+          <Data name="References">
+            <value>USGS (2017a), Vale (2016), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            166.93,-22.31,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ramu</name>
+        <description><![CDATA[Country: Papua New Guinea<br>Latitude: -5.53000<br>Longitude: 145.19000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 2191<br>Operator: Highlands Pacific<br>References: China Nonferrous Mining Corporation Limited (2016), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Papua New Guinea</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-5.53000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>145.19000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2191.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Highlands Pacific</value>
+          </Data>
+          <Data name="References">
+            <value>China Nonferrous Mining Corporation Limited (2016), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            145.19,-5.53,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio Tuba Nickel mine and Rio Tuba Processing Plant, Coral bay Nickel Corporation and Taganito</name>
+        <description><![CDATA[Country: Philippines<br>Latitude: 8.59000<br>Longitude: 117.41000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 2600<br>Operator: Rio Tuba Nickel Mining Corporation/ Coral Bay Nickel Corporation<br>References: Government of the Philippines (2018), USGS (2017a), Coral Bay Nickel Corporation (2018), BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Philippines</value>
+          </Data>
+          <Data name="Latitude">
+            <value>8.59000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>117.41000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2600.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Rio Tuba Nickel Mining Corporation/ Coral Bay Nickel Corporation</value>
+          </Data>
+          <Data name="References">
+            <value>Government of the Philippines (2018), USGS (2017a), Coral Bay Nickel Corporation (2018), BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            117.41,8.59,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAIMYR PENINSULA: Talnakhskoye, Oktyabrskoye Fields </name>
+        <description><![CDATA[Country: Russia<br>Latitude: 69.36<br>Longitude: 88.31000<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 2040<br>Operator: Norilsk Nickel<br>References: Investor Intel (2016)]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Russia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>69.36</value>
+          </Data>
+          <Data name="Longitude">
+            <value>88.31000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2040.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Norilsk Nickel</value>
+          </Data>
+          <Data name="References">
+            <value>Investor Intel (2016)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            88.31,69.36,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nkomati</name>
+        <description><![CDATA[Country: South Africa<br>Latitude: -25.67000<br>Longitude: 30.50000<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 1065<br>Operator: Africa Rainbow Minerals<br>References: BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>South Africa</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-25.67000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>30.50000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>1065.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Africa Rainbow Minerals</value>
+          </Data>
+          <Data name="References">
+            <value>BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.5,-25.67,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle</name>
+        <description><![CDATA[Country: United States<br>Latitude: 46.75000<br>Longitude: -87.90000<br>Cobalt  by-product: Nickel and/or Copper<br>Cobalt Production (t) 2016: 650<br>Operator: Eagle Nickel-Copper Mining<br>References: ]]></description>
+        <styleUrl>#icon-1627-0F9D58-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>United States</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.75000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-87.90000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel and/or Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>650.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Eagle Nickel-Copper Mining</value>
+          </Data>
+          <Data name="References">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.9,46.75,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ban Phuc nickel mine and plant, Tha Koa concession</name>
+        <description><![CDATA[Country: Vietnam<br>Latitude: 21.20833<br>Longitude: 104.28333<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 277<br>Operator: Asian Mineral Resources Limited (AMR) <br>References: BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Vietnam</value>
+          </Data>
+          <Data name="Latitude">
+            <value>21.20833</value>
+          </Data>
+          <Data name="Longitude">
+            <value>104.28333</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>277.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Asian Mineral Resources Limited (AMR) </value>
+          </Data>
+          <Data name="References">
+            <value>BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            104.28333,21.20833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chambishi </name>
+        <description><![CDATA[Country: Zambia<br>Latitude: -12.66000<br>Longitude: 28.05000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 2997<br>Operator: Chambishi Metals plc Zambia <br>References: BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Zambia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.66000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>28.05000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>2997.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Chambishi Metals plc Zambia </value>
+          </Data>
+          <Data name="References">
+            <value>BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.05,-12.66,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nchanga, Konkola</name>
+        <description><![CDATA[Country: Zambia<br>Latitude: -12.51000<br>Longitude: 27.87000<br>Cobalt  by-product: Copper<br>Cobalt Production (t) 2016: 1700<br>Operator: Konkola Copper Cobalt Operation<br>References: BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-FFD600-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Zambia</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.51000</value>
+          </Data>
+          <Data name="Longitude">
+            <value>27.87000</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Copper</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>1700.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Konkola Copper Cobalt Operation</value>
+          </Data>
+          <Data name="References">
+            <value>BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            27.87,-12.51,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trojan Mine at Bindura and  Shangani Mine</name>
+        <description><![CDATA[Country: Zimbabwe<br>Latitude: -17.33245<br>Longitude: 31.28264<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 800<br>Operator: Bindura Nickel Corporation Ltd. (Mwana Africa plc)<br>References: ]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Zimbabwe</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-17.33245</value>
+          </Data>
+          <Data name="Longitude">
+            <value>31.28264</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>800.0</value>
+          </Data>
+          <Data name="Operator">
+            <value>Bindura Nickel Corporation Ltd. (Mwana Africa plc)</value>
+          </Data>
+          <Data name="References">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            31.28264,-17.33245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mimosa</name>
+        <description><![CDATA[Country: Zimbabwe<br>Latitude: -20.33250<br>Longitude: 30.05916<br>Cobalt  by-product: Nickel<br>Cobalt Production (t) 2016: 88<br>Operator:  Impala Platinum Holdings Ltd<br>References: BGR Data (2019)]]></description>
+        <styleUrl>#icon-1627-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Zimbabwe</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-20.33250</value>
+          </Data>
+          <Data name="Longitude">
+            <value>30.05916</value>
+          </Data>
+          <Data name="Cobalt  by-product">
+            <value>Nickel</value>
+          </Data>
+          <Data name="Cobalt Production (t) 2016">
+            <value>88.0</value>
+          </Data>
+          <Data name="Operator">
+            <value> Impala Platinum Holdings Ltd</value>
+          </Data>
+          <Data name="References">
+            <value>BGR Data (2019)</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.05916,-20.3325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Refinery coordinates 2016 2017.xlsx</name>
+      <Placemark>
+        <name>Freeport Cobalt (OMG)</name>
+        <description><![CDATA[Country: Finland<br>unnamed (1): <br>Cobalt production 2016/2017: 11187<br>Latitude: 63.86183<br>Longitude: 23.05271]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Finland</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>11187.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>63.86183</value>
+          </Data>
+          <Data name="Longitude">
+            <value>23.05271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            23.05271,63.86183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Umicore</name>
+        <description><![CDATA[Country: Belgium<br>unnamed (1): <br>Cobalt production 2016/2017: 6329<br>Latitude: 51.17813<br>Longitude: 4.33319]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Belgium</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>6329.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>51.17813</value>
+          </Data>
+          <Data name="Longitude">
+            <value>4.33319</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.33319,51.17813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumitomo Toyo Smelter and Refinery</name>
+        <description><![CDATA[Country: Japan<br>unnamed (1): <br>Cobalt production 2016/2017: 4305<br>Latitude: 33.94921<br>Longitude: 133.23679]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Japan</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>4305.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>33.94921</value>
+          </Data>
+          <Data name="Longitude">
+            <value>133.23679</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            133.23679,33.94921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nikkelverk</name>
+        <description><![CDATA[Country: Norway<br>unnamed (1): <br>Cobalt production 2016/2017: 3500<br>Latitude: 58.13871<br>Longitude: 7.97121]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Norway</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>3500.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>58.13871</value>
+          </Data>
+          <Data name="Longitude">
+            <value>7.97121</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.97121,58.13871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ambatovy</name>
+        <description><![CDATA[Country: Madagascar<br>unnamed (1): <br>Cobalt production 2016/2017: 3273<br>Latitude: -18.83121<br>Longitude: 48.30853]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Madagascar</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>3273.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-18.83121</value>
+          </Data>
+          <Data name="Longitude">
+            <value>48.30853</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            48.30853,-18.83121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Minara (Glencore)</name>
+        <description><![CDATA[Country: Australia<br>unnamed (1): <br>Cobalt production 2016/2017: 3200<br>Latitude: -28.90067<br>Longitude: 121.80455]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Australia</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>3200.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-28.90067</value>
+          </Data>
+          <Data name="Longitude">
+            <value>121.80455</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.80455,-28.90067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norilsk, Russia</name>
+        <description><![CDATA[Country: Russia<br>unnamed (1): <br>Cobalt production 2016/2017: 3092<br>Latitude: 67.91309<br>Longitude: 32.85522]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Russia</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>3092.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>67.91309</value>
+          </Data>
+          <Data name="Longitude">
+            <value>32.85522</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            32.85522,67.91309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International Cobalt (NPMC)</name>
+        <description><![CDATA[Country: Canada<br>unnamed (1): <br>Cobalt production 2016/2017: 3693<br>Latitude: 49.28547<br>Longitude: 123.11533]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>3693.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>49.28547</value>
+          </Data>
+          <Data name="Longitude">
+            <value>123.11533</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            123.11533,49.28547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chambishi Metals plc Zambia (ERG)</name>
+        <description><![CDATA[Country: Zambia<br>unnamed (1): <br>Cobalt production 2016/2017: 4725<br>Latitude: -12.65130<br>Longitude: 28.04837]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Zambia</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>4725.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-12.65130</value>
+          </Data>
+          <Data name="Longitude">
+            <value>28.04837</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.04837,-12.6513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vale</name>
+        <description><![CDATA[Country: Canada<br>unnamed (1): <br>Cobalt production 2016/2017: 1851<br>Latitude: 46.45231<br>Longitude: -81.08674]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Canada</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>1851.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>46.45231</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-81.08674</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.08674,46.45231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CTT</name>
+        <description><![CDATA[Country: Morocco<br>unnamed (1): <br>Cobalt production 2016/2017: 1568<br>Latitude: 30.51733<br>Longitude: -6.90800]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Morocco</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>1568.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>30.51733</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-6.90800</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -6.908,30.51733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gecamines</name>
+        <description><![CDATA[Country: Democratic Republic of the Congo<br>unnamed (1): <br>Cobalt production 2016/2017: 400<br>Latitude: -11.00755<br>Longitude: 26.74115]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Democratic Republic of the Congo</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>400.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-11.00755</value>
+          </Data>
+          <Data name="Longitude">
+            <value>26.74115</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            26.74115,-11.00755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Votorantim</name>
+        <description><![CDATA[Country: Brasil<br>unnamed (1): <br>Cobalt production 2016/2017: 400<br>Latitude: -21.70573<br>Longitude: -43.47404]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>Brasil</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>400.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-21.70573</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-43.47404</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -43.47404,-21.70573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eramet</name>
+        <description><![CDATA[Country: France<br>unnamed (1): <br>Cobalt production 2016/2017: 119<br>Latitude: 49.47212<br>Longitude: 0.28508]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>France</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>119.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>49.47212</value>
+          </Data>
+          <Data name="Longitude">
+            <value>0.28508</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            0.28508,49.47212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maolian</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Tianjin<br>Cobalt production 2016/2017: 900<br>Latitude: 38.68855<br>Longitude: 117.54455]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Tianjin</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>900.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>38.68855</value>
+          </Data>
+          <Data name="Longitude">
+            <value>117.54455</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            117.54455,38.68855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nanjing Hanrui Cobalt</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Nanjing<br>Cobalt production 2016/2017: 1100<br>Latitude: 31.93316<br>Longitude: 118.79959]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Nanjing</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>1100.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>31.93316</value>
+          </Data>
+          <Data name="Longitude">
+            <value>118.79959</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.79959,31.93316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gangzhou Yi Hao Umicore Industry Co.</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Ganzhou<br>Cobalt production 2016/2017: 4401<br>Latitude: 25.83072<br>Longitude: 114.93333]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Ganzhou</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>4401.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>25.83072</value>
+          </Data>
+          <Data name="Longitude">
+            <value>114.93333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            114.93333,25.83072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ganzhou Tengyuan Cobalt New Material Co., Ltd.</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Hongkin<br>Cobalt production 2016/2017: 5600<br>Latitude: 25.86107<br>Longitude: 115.01173]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Hongkin</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>5600.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>25.86107</value>
+          </Data>
+          <Data name="Longitude">
+            <value>115.01173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.01173,25.86107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lanzhou Jinchuan Advanced Materials Technology Co., Ltd.</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Lanzhou<br>Cobalt production 2016/2017: 5800<br>Latitude: 35.96353<br>Longitude: 103.90983]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Lanzhou</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>5800.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>35.96353</value>
+          </Data>
+          <Data name="Longitude">
+            <value>103.90983</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            103.90983,35.96353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zhejiang Huayou Cobalt Co.,Ltd.</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Tongxiang<br>Cobalt production 2016/2017: 9150<br>Latitude: 30.61446<br>Longitude: 120.56720]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Tongxiang</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>9150.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>30.61446</value>
+          </Data>
+          <Data name="Longitude">
+            <value>120.56720</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.5672,30.61446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jiangsu Cobalt Nickel Metal (KLK)</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Taixing<br>Cobalt production 2016/2017: 9500<br>Latitude: 32.17208<br>Longitude: 120.05099]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Taixing</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>9500.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>32.17208</value>
+          </Data>
+          <Data name="Longitude">
+            <value>120.05099</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.05099,32.17208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quzhou Huayou Cobalt New Material Co., Ltd.</name>
+        <description><![CDATA[Country: China<br>unnamed (1): Quzhou<br>Cobalt production 2016/2017: 13000<br>Latitude: 28.97019<br>Longitude: 118.85951]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>China</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value>Quzhou</value>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>13000.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>28.97019</value>
+          </Data>
+          <Data name="Longitude">
+            <value>118.85951</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            118.85951,28.97019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anglo Platinum Rustenburg (Anglo American)</name>
+        <description><![CDATA[Country: South Africa<br>unnamed (1): <br>Cobalt production 2016/2017: 700<br>Latitude: -26.22140<br>Longitude: 28.44168]]></description>
+        <styleUrl>#icon-1565-BDBDBD-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Country">
+            <value>South Africa</value>
+          </Data>
+          <Data name="unnamed (1)">
+            <value/>
+          </Data>
+          <Data name="Cobalt production 2016/2017">
+            <value>700.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.22140</value>
+          </Data>
+          <Data name="Longitude">
+            <value>28.44168</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            28.44168,-26.2214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
